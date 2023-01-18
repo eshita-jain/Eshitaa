@@ -3,7 +3,7 @@
 <h3 align="center">It's never too late to be who you might have been.</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshita-jain&label=Profile%20views&color=0e75b6&style=flat" alt="eshita-jain" /> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 - 🌱 I’m currently learning ReactJS.
 
 - 👨‍💻 All of my projects are available at [https://github.com/eshita-jain](https://github.com/eshita-jain)
