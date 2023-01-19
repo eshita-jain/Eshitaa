@@ -54,7 +54,7 @@
 <a href="https://github.com/eshita-jain/github-readme-activity-graph"><img alt="Eshita Jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eshita-jain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
-<br/>
+<!-- <br/> -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/eshita-jain/github-profile-views-counter">
