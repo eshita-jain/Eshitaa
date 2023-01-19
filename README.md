@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Eshita Jain.</h1>
 <h3 align="center">It's never too late to be who you might have been.</h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshita-jain&label=Profile%20views&color=0e75b6&style=flat" alt="eshita-jain" /> </p>
+<p align="left"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=eshita-jain&color=brightgreen"> </p>
+
+[![Linkedin: Aniket](https://img.shields.io/badge/-Eshita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eshita-jain-218191202/)](https://https://www.linkedin.com/in/eshita-jain-218191202/)
+![GitHub followers](https://img.shields.io/github/followers/eshita-jain?label=Follow&style=social)
+
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 - 🌱 I’m currently learning ReactJS.
 
